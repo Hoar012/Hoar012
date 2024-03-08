@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I am a student of Nanjing University.
+I am an undergraduate student of Nanjing University.
