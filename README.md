@@ -2,7 +2,7 @@
 
 I am an undergraduate student at the School of Artificial Intelligence, Nanjing University.
 
-My research interests mainly include Machine Learning, Multimodal Machine Learning, Neural-Symbolic Learning. I am also keen on building Intelligent System with ability of perception and reasoning.
+My research interests mainly include Machine Learning, Multimodal Machine Learning, Neural-Symbolic AI. I am also keen on building intelligent system with ability of perception and reasoning.
 
 ## Honors & Awards
 National Scholarship, 2023  
