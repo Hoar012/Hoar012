@@ -1,6 +1,6 @@
 ## Hi there 👋. This is the Github page of [Haoran Hao](https://hoar012.github.io/).
 
-- First-year MSR student at Carnegie Mellon University, Robotics Institute (2025-Present).
+- Second-year MSR student at Carnegie Mellon University, Robotics Institute (2025-Present).
 - Undergraduate at the School of Artificial Intelligence, Nanjing University (2021-2025).
 - Research Intern at MMLab@The Chinese University of Hong Kong (2024-2025).
 - Research Intern at Shanghai Artificial Intelligence Laboratory (2025).
